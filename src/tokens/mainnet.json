@@ -667,5 +667,13 @@
     "decimals": 9,
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0xc1D99537392084Cc02D3F52386729b79d01035ce.png"
+  },
+  {
+    "name": "Advocate Coin",
+    "address": "0x4DF1E1164fcF7Bf4C70861543A672994Dc574c30",
+    "symbol": "ACC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0x4DF1E1164fcF7Bf4C70861543A672994Dc574c30.png"
   }
 ]
