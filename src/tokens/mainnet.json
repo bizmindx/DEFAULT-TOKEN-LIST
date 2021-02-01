@@ -288,12 +288,12 @@
     "logoURI": "https://tokens.julswap.com/images/0x99C5A2Fcc97b59FE6D0B56e21e72B002F644123F.png"
   },
   {
-    "name": "BillionHappiness",
-    "address": "0xA6381C6Fd8f40A44721eF4f61eDc1a8CCCa7BF3d",
+    "name": "Billion Happiness",
+    "address": "0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4",
     "symbol": "BHC",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.julswap.com/images/0xA6381C6Fd8f40A44721eF4f61eDc1a8CCCa7BF3d.png"
+    "logoURI": "https://tokens.julswap.com/images/0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4.png"
   },
   {
     "name": "beefy.finance",
