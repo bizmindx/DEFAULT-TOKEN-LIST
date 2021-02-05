@@ -683,5 +683,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0xc5137E8e017799e71A65e0cFe3F340d719AF17D3.png"
+  },
+  {
+    "name": "YVS.Finance on BSC",
+    "address": "0x47c1C7B9D7941A7265D123DCfb100D8FB5348213",
+    "symbol": "YVS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0x47c1C7B9D7941A7265D123DCfb100D8FB5348213.png"
   }
 ]
