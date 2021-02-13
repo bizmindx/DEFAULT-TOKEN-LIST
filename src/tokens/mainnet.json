@@ -712,11 +712,20 @@
   }
   ,
   {
-    "name": "Curate ob BSC",
+    "name": "Curate on BSC",
     "address": "0x708C671Aa997da536869B50B6C67FA0C32Ce80B2",
     "symbol": "XCUR",
     "decimals": 8,
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0x708C671Aa997da536869B50B6C67FA0C32Ce80B2.png"
+  }
+  ,
+  {
+    "name": "SparkPoint on BSC",
+    "address": "0x3B1eC92288D78D421f97562f8D479e6fF7350a16",
+    "symbol": "SRK",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0x3B1eC92288D78D421f97562f8D479e6fF7350a16.png"
   }
 ]
