@@ -15,3 +15,16 @@ To request that we add a token to the list,
 Note filing an issue does not guarantee addition to this default token list.
 We do not review token addition requests in any particular order, and we do not
 guarantee that we will review your request to add the token to the default list.
+
+
+1. Update https://unpkg.com/default-token-list@latest
+
+    Package.json  
+    Files:
+    [];
+
+    npm run build
+    npm login   (kgcdream2019/createdat2019)
+    npm publish
+
+DEFAULT TOKEN LIST url    https://unpkg.com/default-token-list@latest

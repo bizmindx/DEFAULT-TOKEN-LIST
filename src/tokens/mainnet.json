@@ -692,4 +692,31 @@
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0x47c1C7B9D7941A7265D123DCfb100D8FB5348213.png"
   }
+  ,
+  {
+    "name": "Binance-Peg Dogecoin",
+    "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+    "symbol": "DOGE",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png"
+  }
+  ,
+  {
+    "name": "HappinessToken",
+    "address": "0xeDa21B525Ac789EaB1a08ef2404dd8505FfB973D",
+    "symbol": "HPS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0xeDa21B525Ac789EaB1a08ef2404dd8505FfB973D.png"
+  }
+  ,
+  {
+    "name": "Curate ob BSC",
+    "address": "0x708C671Aa997da536869B50B6C67FA0C32Ce80B2",
+    "symbol": "XCUR",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0x708C671Aa997da536869B50B6C67FA0C32Ce80B2.png"
+  }
 ]
