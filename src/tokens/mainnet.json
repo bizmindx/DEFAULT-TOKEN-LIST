@@ -728,4 +728,13 @@
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0x3B1eC92288D78D421f97562f8D479e6fF7350a16.png"
   }
+  ,
+  {
+    "name": "Shield Protocol",
+    "address": "0x60b3BC37593853c04410c4F07fE4D6748245BF77",
+    "symbol": "SHIELD",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0x60b3BC37593853c04410c4F07fE4D6748245BF77.png"
+  }
 ]
